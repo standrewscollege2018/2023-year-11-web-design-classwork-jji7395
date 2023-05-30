@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'ff', 'Times New Roman', Times, serif;
+}
+
+@font-face {
+    font-family: ff;
+    src: url(ff.otf);
+}
+
+body {
+    background-color: rgb(50, 50, 50);
+    color: #EAEEF5;
+    padding: 20px, 10px, 10px, 10px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 40px ;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 30px ;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+a:link {
+    color: #ffff00;
+    text-align: center;
+}
+
+a:visited {
+    color: #7efb7b;
+    text-align: center;
+}
