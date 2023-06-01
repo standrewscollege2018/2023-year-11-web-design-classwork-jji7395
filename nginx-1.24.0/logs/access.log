@@ -171,3 +171,8 @@
 127.0.0.1 - - [30/May/2023:14:04:39 +1200] "GET /styles.css HTTP/1.1" 304 0 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 127.0.0.1 - - [30/May/2023:14:04:39 +1200] "GET / HTTP/1.1" 304 0 "http://localhost/uk/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 127.0.0.1 - - [30/May/2023:14:04:40 +1200] "GET / HTTP/1.1" 304 0 "http://localhost/uk/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+127.0.0.1 - - [30/May/2023:14:07:53 +1200] "GET /styles.css HTTP/1.1" 200 613 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+127.0.0.1 - - [30/May/2023:14:08:06 +1200] "GET / HTTP/1.1" 200 2868 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+127.0.0.1 - - [30/May/2023:14:09:20 +1200] "GET / HTTP/1.1" 200 2201 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+127.0.0.1 - - [30/May/2023:14:09:20 +1200] "GET /styles.css HTTP/1.1" 304 0 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+127.0.0.1 - - [30/May/2023:14:09:48 +1200] "GET /styles.css HTTP/1.1" 304 0 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"

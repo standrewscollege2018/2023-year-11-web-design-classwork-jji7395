@@ -1,7 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: 'ff', 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 @font-face {
@@ -14,6 +14,7 @@ body {
     color: #EAEEF5;
     padding: 20px, 10px, 10px, 10px;
     text-align: center;
+    font-family: 'ff', 'Times New Roman', Times, serif;
 }
 
 h1 {
@@ -39,4 +40,9 @@ a:link {
 a:visited {
     color: #7efb7b;
     text-align: center;
+}
+
+.subtitle{
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
