@@ -12,18 +12,18 @@
 body {
     background-color: rgb(50, 50, 50);
     color: #EAEEF5;
-    padding: 20px, 10px, 10px, 10px;
+    padding: 20px 10px 10px 10px;
     text-align: center;
     font-family: 'ff', 'Times New Roman', Times, serif;
 }
 
 h1 {
-    margin-bottom: 40px ;
+    margin-bottom: 40px;
     text-align: center;
 }
 
 h2 {
-    margin-bottom: 30px ;
+    margin-bottom: 30px;
     text-align: center;
 }
 
@@ -42,7 +42,24 @@ a:visited {
     text-align: center;
 }
 
-.subtitle{
+.subtitle {
     display: grid;
     grid-template-columns: 50% 50%;
+}
+
+.cardbody {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    margin: 15px;
+    padding: 15px;
+}
+
+.card {
+    margin: 10px;
+}
+
+.cardbody img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
 }
