@@ -46,3 +46,4 @@
 2023/06/09 11:00:03 [error] 95268#98768: *52 CreateFile() "C:\Users\13801\Documents\GitHub\2023-year-11-web-design-classwork-jji7395\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/stac100/"
 2023/06/09 13:45:17 [alert] 99168#97924: worker process 111680 exited with code C0000142
 2023/06/09 13:45:17 [alert] 99168#97924: could not respawn worker
+2023/06/12 08:49:17 [error] 18716#21816: *1 CreateFile() "C:\Users\13801\Documents\GitHub\2023-year-11-web-design-classwork-jji7395\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
