@@ -602,3 +602,4 @@
 127.0.0.1 - - [12/Jun/2023:09:34:41 +1200] "GET /stac100/styles.css HTTP/1.1" 304 0 "http://localhost/stac100/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 127.0.0.1 - - [12/Jun/2023:09:35:06 +1200] "GET /stac100/ HTTP/1.1" 200 1677 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 127.0.0.1 - - [12/Jun/2023:09:35:06 +1200] "GET /stac100/styles.css HTTP/1.1" 304 0 "http://localhost/stac100/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+127.0.0.1 - - [12/Jun/2023:11:30:18 +1200] "GET /graph HTTP/1.1" 404 273 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
