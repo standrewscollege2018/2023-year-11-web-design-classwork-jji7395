@@ -9,16 +9,20 @@
 }
 
 .header img {
-    padding: 10px;
-    max-width: 98%;
+    max-width: 100%;
 }
 
 .choicebox a {
     margin: 10px 50px;
+    
 }
 
 .text {
     margin: 10px;
+}
+
+.text p {
+    padding-bottom: 3px;
 }
 
 .content {
@@ -49,4 +53,18 @@
 
 .events {
     margin: 20px;
+}
+
+.events h2 {
+    color: #004e8e;
+    padding-bottom: 8px;
+}
+
+.events h3 {
+    color: #0b84e8;
+    padding-bottom: 5px;
+}
+
+.events p {
+    padding-bottom: 2px;
 }
